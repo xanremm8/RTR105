@@ -17,3 +17,4 @@ Datormācības kursa elektroniskā klade
    21  history  
    ctrl+alt+F1/F2/F7   (login)
    
+Sheel (linux) - bash

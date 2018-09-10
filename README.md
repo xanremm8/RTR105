@@ -6,7 +6,7 @@ Datormācības kursa elektroniskā klade
     7  uname -a  
     8  echo $0  
     9  history  
-   10  whoami (users name)
+   10  whoami (users name)   
    11  who  
    12  pwd  
    13  ls  

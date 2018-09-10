@@ -15,5 +15,5 @@ Datormācības kursa elektroniskā klade
    18  man ls  
    19  ls -la  
    21  history  
-   ctrl+alt+F1/F2/F7  
+   ctrl+alt+F1/F2/F7   (login)
    

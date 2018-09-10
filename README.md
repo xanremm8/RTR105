@@ -1,5 +1,5 @@
 # RTR105
-Datormācības kursa elektroniskā klade
+Datormācības kursa elektroniskā klade  
     4  man (?)  
     5  uname  
     6  uname -all  

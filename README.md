@@ -19,7 +19,7 @@ Datormācības kursa elektroniskā klade
    mkdir   
    nano  
    cd ..  
-   git clone https://github.com/xanremm8/RTR105 
+   git clone https://github.com/xanremm8/RTR105   
    cat   
    PATH=$PATH:~  
      echo $PATH  

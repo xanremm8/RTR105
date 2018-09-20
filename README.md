@@ -19,9 +19,11 @@ Datormācības kursa elektroniskā klade
    mkdir   
    nano  
    cd ..  
-   git clone  
+   git clone https://github.com/xanremm8/RTR105 
    cat   
    PATH=$PATH:~  
      echo $PATH  
      chmod 764 mans_pirmais_skripts.sh ( chmod )  
+     history > history.txt   
+./    
 Sheel (linux) - bash  

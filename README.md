@@ -17,7 +17,7 @@ Datormācības kursa elektroniskā klade
      history  
    ctrl+alt+F1/F2/F7   (login)  
    rm (remove)   
-   rm -r
+   rm -r   
    mv (move)   
    nano  
    cd ..  

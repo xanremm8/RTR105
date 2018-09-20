@@ -26,7 +26,7 @@ Datormācības kursa elektroniskā klade
    PATH=$PATH:~  
      echo $PATH  
      chmod 764 mans_pirmais_skripts.sh ( chmod )  (764 scripts) 
-     history > history.txt   
+     history > history.txt     
 ./    
 mkdir (make directory)
 Sheel (linux) - bash  

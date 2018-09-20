@@ -25,7 +25,7 @@ Datormācības kursa elektroniskā klade
    cat   
    PATH=$PATH:~  
      echo $PATH  
-     chmod 764 mans_pirmais_skripts.sh ( chmod )  (764 scripts) 
+     chmod 764 mans_pirmais_skripts.sh ( chmod )  (764 scripts)   
      history > history.txt     
 ./    
 mkdir (make directory)

@@ -15,13 +15,13 @@ Datormācības kursa elektroniskā klade
      man ls  
      ls -la  
      history  
-   ctrl+alt+F1/F2/F7   (login)
-   mkdir 
-   nano
-   cd ..
-   git clone
-   cat 
-   PATH=$PATH:~
-     echo $PATH
-     chmod 764 mans_pirmais_skripts.sh ( chmod )
-Sheel (linux) - bash
+   ctrl+alt+F1/F2/F7   (login)  
+   mkdir   
+   nano  
+   cd ..  
+   git clone  
+   cat   
+   PATH=$PATH:~  
+     echo $PATH  
+     chmod 764 mans_pirmais_skripts.sh ( chmod )  
+Sheel (linux) - bash  

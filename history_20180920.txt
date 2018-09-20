@@ -1,0 +1,67 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  mkdir Mape 
+    4  cd Mape/
+    5  ls
+    6  cd
+    7  ls
+    8  rm Mape/
+    9  rm Mape/ -R
+   10  ls
+   11  pwd
+   12* 
+   13  ls
+   14  nano mans_pirmais_skripts.sh 
+   15  ls
+   16  ls -l
+   17  echo $PATH
+   18  cat mans_pirmais_skripts.sh 
+   19  cat /bin/
+   20  cat /bin/ls
+   21  62;c
+   22  pwd 
+   23  PATH=$PATH:~
+   24  echo $PATH
+   25  ls -l 
+   26  chmod 764 mans_pirmais_skripts.sh 
+   27  ls
+   28  mans_pirmais_skripts.sh 
+   29  ls
+   30  cd Mape/
+   31  ls
+   32  cd MapeMapee/
+   33  ls
+   34  ls -l
+   35  cd
+   36  ls
+   37  cd Mape/
+   38  cd MapeMapee/
+   39  cd .
+   40  ls
+   41  cd ..
+   42  ls
+   43  cd ..
+   44  /home/user/mans_pirmais_skripts.sh 
+   45  .
+   46  ./mans_pirmais_skripts.sh 
+   47  pwd 
+   48  ~/mans_pirmais_skripts.sh 
+   49  git clone https://github.com/xanremm8/RTR105 
+   50  ls
+   51  ls -l
+   52  cd RTR105
+   53  ls
+   54  ls -l
+   55  nano README.md 
+   56  history
+   57  nano README.md 
+   58  cat README.md 
+   59  nano README.md 
+   60  cat README.md 
+   61  nano git-upload 
+   62  cat git-upload 
+   63  ls -l
+   64  chmod 764 git-upload 
+   65  ls -l
+   66  history 
+   67  history > history_20180920.txt

@@ -1,0 +1,37 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  git clone https://github.com/xanremm8/RTR105
+    4  ls
+    5  cd RTR105/
+    6  lf
+    7  ls
+    8  python 
+    9  ls
+   10  exit()
+   11  vars() (print_builtins_._doc)
+   12  1
+   13  1*1
+   14  a
+   15  a^6
+   16  6*6
+   17  python 
+   18  clear
+   19  nano test_1.la.ty
+   20  nano test_1.la.py 
+   21  test chmod test_1.la.py 764
+   22  ls
+   23  test_1.la.py
+   24  test chmod 764 test_1.la.py 
+   25  ls
+   26  nano test_1.la.py 
+   27  python test_1.la.py 
+   28  ls -l
+   29  ./test_1.py
+   30  ./test_1.la.py
+   31  idle test_1.la.py &
+   32  ./test_1.la.py
+   33  idle test_1.la.py &
+   34  python test_1.la.py 
+   35  history
+   36  history_2\29102018 
+   37  history > 29102018.txt 

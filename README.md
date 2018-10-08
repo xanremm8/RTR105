@@ -30,3 +30,5 @@ Datormācības kursa elektroniskā klade
 ./    
 mkdir (make directory)  
 Sheel (linux) - bash  
+idle & (python)
+

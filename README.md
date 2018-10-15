@@ -32,3 +32,16 @@ mkdir (make directory)
 Sheel (linux) - bash  
 idle & (python)
 
+Python 
++ Addition
+- Subtraction
+* Multiplication
+/ Division
+** Power
+% Remainder
+< Less than
+<= Less than or Equal to
+== Equal to
+>= Greater than or Equal to
+> Greater than
+!= Not equal

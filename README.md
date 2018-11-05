@@ -45,3 +45,14 @@ Python
 >= Greater than or Equal to
 > Greater than
 != Not equal
+str.capitalize()
+str.center(width[, fillchar])
+str.endswith(suffix[, start[, end]])
+str.find(sub[, start[, end]])
+str.lstrip([chars])
+str.replace(old, new[, count])
+str.lower()
+str.rstrip([chars])
+str.strip([chars])
+str.upper()
+len The built in function lengives us the length of a string
